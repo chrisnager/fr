@@ -1,4 +1,4 @@
-# fr
+# fr.sh
 Code-golfed bash script to display the French flag 🇫🇷
 
 ```bash
